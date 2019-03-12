@@ -1,0 +1,51 @@
+@media (min-width: 1100px) {
+  /* This part is only read by viewports wider than 1200 pixels */
+  
+
+  .recommended-header{
+  }
+  .recommended-title{
+  	font-weight: 500;
+  	font-size: 2.25rem;
+    line-height: 1.33333333;
+    color: #253858;
+    letter-spacing: 0;
+    margin-top: 0;
+    margin-bottom: 14px;
+  }
+  .recommended-decription{
+  	font-size: 1.25rem;
+    letter-spacing: .3px;
+    line-height: 1.4;
+    color: #42526E;
+    font-weight: 400;
+  }
+
+
+
+
+  .footer-text{
+  		display: inline-block; 
+		padding: 10px 14px;
+   }
+   .footer-logo-column{
+		width: 20%;
+		padding: 20px;
+	}
+   .footer-row{
+   		width: 74%;
+		display: -webkit-inline-box;
+		padding: 0 10%;
+   }
+   .list-comlum{
+   		display: -webkit-inline-box;
+   }
+   .footer-column{
+		width:25%;
+		padding:0 12px;
+	}
+
+	
+}
+
+
